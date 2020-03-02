@@ -1,0 +1,2 @@
+# laradock2
+練習あるのみ。laravelコンテナに入るユーザをlaradockにしてみよう
